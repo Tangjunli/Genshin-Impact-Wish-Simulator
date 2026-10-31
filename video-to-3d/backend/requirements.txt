@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+python-multipart>=0.0.9
+pydantic>=2.7
+# 可选：人物检测（Apache-2.0）。未安装时流水线会给出明确降级提示，不会伪造结果。
+# mediapipe>=0.10
+# 可选：抽帧/缩略图依赖系统 ffmpeg、ffprobe。

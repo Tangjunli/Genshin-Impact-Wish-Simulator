@@ -1,0 +1,13 @@
+{
+  "name": "Video to 3D",
+  "short_name": "Video3D",
+  "description": "视频转 3D 模型，支持本地与云端处理",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16181d",
+  "theme_color": "#16181d",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
